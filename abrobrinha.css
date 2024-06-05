@@ -5,3 +5,7 @@ table{
     border-style: solid;
     border: 4px;
 }
+body{
+    background-color: black;
+    color: white;
+}
